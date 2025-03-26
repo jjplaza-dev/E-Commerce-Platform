@@ -1,0 +1,30 @@
+{
+  "name": "e-commerce-platform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cookie": "^1.0.2",
+    "dotenv": "^16.4.7",
+    "react": "^19.0.0",
+    "react-router": "^7.4.0",
+    "set-cookie-parser": "^2.7.1",
+    "turbo-stream": "^2.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjplaza-dev/E-Commerce-Platform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jjplaza-dev/E-Commerce-Platform/issues"
+  },
+  "homepage": "https://github.com/jjplaza-dev/E-Commerce-Platform#readme"
+}

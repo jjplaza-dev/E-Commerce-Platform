@@ -1,4 +1,5 @@
 import Navigation from "../components/Navigation"
+import ProductShelf from "../components/ProductShelf"
 import Front from "../pages/Front"
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <>
       <Navigation />
       <Front />
+      <ProductShelf />
 
 
     </>
